@@ -31,4 +31,3 @@ public:
     bool operator==(const NhanVien& other) const;
 };
 
-#endif
